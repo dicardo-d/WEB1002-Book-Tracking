@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WEB_1002_BookTracking
+build_property.RootNamespace = WEB_1002_BookTracking
+build_property.ProjectDir = /Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/BookList/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va0xpc3QvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/BookList/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va0xpc3QvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/BookList/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va0xpc3QvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/BookList/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va0xpc3QvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/BookList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va0xpc3QvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryList/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlMaXN0L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryList/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlMaXN0L0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryList/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlMaXN0L0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryList/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlMaXN0L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlMaXN0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryTypeList/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlUeXBlTGlzdC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryTypeList/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlUeXBlTGlzdC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryTypeList/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlUeXBlTGlzdC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryTypeList/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlUeXBlTGlzdC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/CategoryTypeList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnlUeXBlTGlzdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divyakhemani/Projects/WEB-1002-BookTracking/WEB-1002-BookTracking/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kg7p91ja0j
